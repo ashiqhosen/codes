@@ -1,0 +1,17 @@
+{
+  "name": "notion-next-blog",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "notion-client": "^4.13.0",
+    "react": "latest",
+    "react-dom": "latest",
+    "next": "latest",
+    "react-notion-x": "^4.13.1",
+    "fuse.js": "^6.6.2"
+  }
+}
